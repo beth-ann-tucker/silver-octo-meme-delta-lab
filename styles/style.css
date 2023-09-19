@@ -1,0 +1,39 @@
+/*Set background image*/
+body {
+   background-image:
+url('https://img.freepik.com/premium-vector/pig-s-nose-ears-festive-seamless-pattern-new-year-2019_208509-900.jpg'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*Set elements so that they are readable*/
+h1{
+  font-size: 75px;
+  font-weight: bold;
+  color: saddlebrown;
+  font-family: Verdana;
+}
+
+h4,
+p{
+  font-size: 25px;
+  font-weight: bold;
+  color: saddlebrown;
+  font-family: Verdana;
+}
+
+#userName {
+  color: saddlebrown;
+  font-family: Verdana;
+}
+
+#btnUserName {
+  color: white;
+  background-color: saddlebrown;
+  font-family: Verdana;
+}
+
+#spiritPigPhoto {
+  width: 500px;
+}
